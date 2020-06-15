@@ -39,13 +39,15 @@
         grid-row-end: 5;
         align-self: center;
         justify-self: center;
+        border-radius: 3px;
+        border-color: red;
+        background-color: blue;
     }
     #adc-logo {
         width: 25%;
         height:25%;
     }
 </style>
-
 <article id="status-grid" class="container">
     <section class="logo">
         <img id="adc-logo" src="./arctic-logo.png" alt="" />
