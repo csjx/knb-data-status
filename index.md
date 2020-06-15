@@ -39,9 +39,10 @@
         grid-row-end: 5;
         align-self: center;
         justify-self: center;
+        color: #C09853;
         border-radius: 3px;
-        border-color: red;
-        background-color: blue;
+        border-color: #C09853;
+        background-color: #FCF8E3;
     }
     #adc-logo {
         width: 25%;
