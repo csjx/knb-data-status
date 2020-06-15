@@ -16,6 +16,11 @@
         align-items: center;
         justify-items: center;
     }
+    section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
     .logo {
         grid-column-start: 2;
         grid-column-end: 3;
