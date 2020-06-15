@@ -1,5 +1,3 @@
-Arctic Data Center Status
-
 <style>
     html, body {
          margin: 0px;
@@ -26,12 +24,14 @@ Arctic Data Center Status
     }
     #orcid-logo {
         width: 10%;
-        height:10%
+        height:10%;
+        border: 1px;
     }
 </style>
 
 <article id="button-grid" class="container">
     <section class="item">
         <img id="orcid-logo" src="./img/orcid_64x64.png" alt="" />
+        Arctic Data Center Status
     </section>
 </article>
