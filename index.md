@@ -23,15 +23,15 @@
         grid-row-end: 2;
     }
     #adc-logo {
-        width: 10%;
-        height:10%;
+        width: 25%;
+        height:25%;
         border: 1px;
     }
 </style>
 
 <article id="button-grid" class="container">
     <section class="item">
-        <img id="adc-logo" src="./adc_logo.png" alt="" />
+        <img id="adc-logo" src="./arctic-logo.png" alt="" />
         Arctic Data Center Status
     </section>
 </article>
