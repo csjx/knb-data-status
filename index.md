@@ -43,7 +43,7 @@
         border-radius: 3px;
         border-color: #C09853;
         background-color: #FCF8E3;
-        padding: 10px;
+        padding: 20px;
     }
     #adc-logo {
         width: 25%;
