@@ -60,7 +60,7 @@
         <img id="adc-logo" src="./arctic-logo.png" alt="" />
     </section>
     <section class="heading">
-        <h1>Arctic Data Center Status</h1>
+        <h1>NSF Arctic Data Center Status</h1>
     </section>
     <section class="message">
         Due to a network upgrade, the Arctic Data Center will be unavailable 
