@@ -22,7 +22,7 @@
         grid-row-start: 2;
         grid-row-end: 2;
     }
-    #orcid-logo {
+    #adc-logo {
         width: 10%;
         height:10%;
         border: 1px;
@@ -31,7 +31,7 @@
 
 <article id="button-grid" class="container">
     <section class="item">
-        <img id="orcid-logo" src="./img/orcid_64x64.png" alt="" />
+        <img id="adc-logo" src="./adc_logo.png" alt="" />
         Arctic Data Center Status
     </section>
 </article>
