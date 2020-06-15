@@ -9,8 +9,8 @@
         display: grid;
         height: 100%;
         width: 100%;
-        grid-template-columns: repeat(3, 1fr [col-start]);
-        grid-template-rows: repeat(6, 1fr [row-start]);
+        grid-template-columns: repeat(3, 2fr [col-start]);
+        grid-template-rows: repeat(6, 2fr [row-start]);
         grid-column-gap: 10px;
         grid-row-gap: 10px;
         align-items: center;
