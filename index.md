@@ -9,7 +9,7 @@
         display: grid;
         height: 100%;
         width: 100%;
-        grid-template-columns: repeat(3, 2fr [col-start]);
+        grid-template-columns: 1fr [col-start] 2fr 1fr);
         grid-template-rows: repeat(6, 2fr [row-start]);
         grid-column-gap: 10px;
         grid-row-gap: 10px;
