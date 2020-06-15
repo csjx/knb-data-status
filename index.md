@@ -1,7 +1,7 @@
 <style>
     html, body {
-         margin: 20px;
-         padding: 20px;
+         margin: 0px;
+         padding: 0px;
          height: 100%;
          width: 100%
      }
@@ -10,7 +10,7 @@
         height: 100%;
         width: 100%;
         grid-template-columns: 1fr [col-start] 2fr 1fr);
-        grid-template-rows: repeat(6, 2fr [row-start]);
+        grid-template-rows: .25fr 1fr .5fr 2fr 1fr;
         grid-column-gap: 10px;
         grid-row-gap: 10px;
         align-items: center;
@@ -24,24 +24,24 @@
     .logo {
         grid-column-start: 2;
         grid-column-end: 3;
-        grid-row-start: 1;
-        grid-row-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 3;
         align-self: center;
         justify-self: center;
     }
     .heading {
         grid-column-start: 2;
         grid-column-end: 3;
-        grid-row-start: 2;
-        grid-row-end: 3;
+        grid-row-start: 3;
+        grid-row-end: 4;
         align-self: center;
         justify-self: center;
     }
     .message {
         grid-column-start: 2;
         grid-column-end: 3;
-        grid-row-start: 3;
-        grid-row-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 5;
         align-self: center;
         justify-self: center;
         color: #C09853;
