@@ -10,28 +10,46 @@
         height: 100%;
         width: 100%;
         grid-template-columns: repeat(3, 1fr [col-start]);
-        grid-template-rows: repeat(3, 1fr [row-start]);
+        grid-template-rows: repeat(6, 1fr [row-start]);
         grid-column-gap: 10px;
         grid-row-gap: 10px;
         align-items: center;
         justify-items: center;
     }
-    .item {
+    .logo {
         grid-column-start: 2;
         grid-column-end: 3;
         grid-row-start: 2;
         grid-row-end: 2;
     }
+    .heading {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 3;
+        grid-row-end: 3;
+    }
+    .message {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 4;
+        grid-row-end: 4;
+    }
     #adc-logo {
         width: 25%;
         height:25%;
-        border: 1px;
     }
 </style>
 
-<article id="button-grid" class="container">
-    <section class="item">
+<article id="status-grid" class="container">
+    <section class="logo">
         <img id="adc-logo" src="./arctic-logo.png" alt="" />
+    </section>
+    <section class="heading">
         Arctic Data Center Status
+    </section>
+        <section class="heading">
+Due to a network upgrade, the Arctic Data Center will be unavailable between 11:00 PM Pacific Daylight Time on Monday June 15th and 6:30 AM Pacific Daylight Time on Tuesday June 16th. We apologize for the inconvenience. Please contact support@arcticdata.io if you have any questions. 
+
+
     </section>
 </article>
