@@ -1,7 +1,7 @@
 <style>
     html, body {
-         margin: 0px;
-         padding: 0px;
+         margin: 20px;
+         padding: 20px;
          height: 100%;
          width: 100%
      }
