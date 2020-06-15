@@ -10,7 +10,7 @@
         height: 100%;
         width: 100%;
         grid-template-columns: 1fr [col-start] 2fr 1fr);
-        grid-template-rows: .25fr 1fr .5fr 2fr 1fr;
+        grid-template-rows: .25fr 1fr .5fr 1fr 2fr;
         grid-column-gap: 10px;
         grid-row-gap: 10px;
         align-items: center;
