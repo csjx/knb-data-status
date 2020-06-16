@@ -66,6 +66,6 @@
         Due to a network upgrade, the KNB data Repository will be unavailable 
         between 11:00 PM Pacific Daylight Time on Monday June 15th and 6:30 AM 
         Pacific Daylight Time on Tuesday June 16th. We apologize for the 
-        inconvenience. Please contact help@nceas.ucsb.edu if you have any questions. 
+        inconvenience. Please contact knb-help@nceas.ucsb.edu if you have any questions. 
    </section>
 </article>
