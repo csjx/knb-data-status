@@ -50,22 +50,22 @@
         background-color: #FCF8E3;
         padding: 20px;
     }
-    #adc-logo {
+    #knb-logo {
         width: 25%;
         height:25%;
     }
 </style>
 <article id="status-grid" class="container">
     <section class="logo">
-        <img id="adc-logo" src="./arctic-logo.png" alt="" />
+        <img id="knb-logo" src="./knb-logo.png" alt="" />
     </section>
     <section class="heading">
-        <h1>NSF Arctic Data Center Status</h1>
+        <h1>KNB Data Repository Status</h1>
     </section>
     <section class="message">
-        Due to a network upgrade, the Arctic Data Center will be unavailable 
+        Due to a network upgrade, the KNB data Repository will be unavailable 
         between 11:00 PM Pacific Daylight Time on Monday June 15th and 6:30 AM 
         Pacific Daylight Time on Tuesday June 16th. We apologize for the 
-        inconvenience. Please contact support@arcticdata.io if you have any questions. 
+        inconvenience. Please contact help@nceas.ucsb.edu if you have any questions. 
    </section>
 </article>
