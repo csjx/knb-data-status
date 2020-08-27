@@ -63,9 +63,9 @@
         <h1>KNB Data Repository Status</h1>
     </section>
     <section class="message">
-        Due to a network upgrade, the KNB Data repository will be unavailable 
-        between 10:30 PM Pacific Daylight Time on Tuesday July 14th and 7:30 AM 
-        Pacific Daylight Time on Wednesday July 16th. We apologize for the 
+        Due to a campus network upgrade, the KNB Data repository will be unavailable 
+        between 10:00 PM Pacific Daylight Time on Wednesday August 26th and 8:00 AM 
+        Pacific Daylight Time on Thursday August 27th. We apologize for the 
         inconvenience. Please contact support@arcticdata.io if you have any questions. 
     </section>
 </article>
