@@ -66,6 +66,6 @@
         Due to a campus network upgrade, the KNB Data repository will be unavailable 
         between 10:00 PM Pacific Daylight Time on Wednesday August 26th and 8:00 AM 
         Pacific Daylight Time on Thursday August 27th. We apologize for the 
-        inconvenience. Please contact support@arcticdata.io if you have any questions. 
+        inconvenience. Please contact knb-help@nceas.ucsb.edu if you have any questions. 
     </section>
 </article>
